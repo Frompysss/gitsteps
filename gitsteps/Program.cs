@@ -8,8 +8,13 @@ namespace gitsteps
 {
     class Program
     {
+        static void METOD()
+        {
+            Console.WriteLine("Абабвуа");
+        }
         static void Main(string[] args)
         {
+            METOD();
         }
     }
 }
