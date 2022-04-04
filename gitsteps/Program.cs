@@ -11,6 +11,7 @@ namespace gitsteps
         static void METODINO()
         {
             Console.WriteLine("абоба");
+            Console.WriteLine("1+1");
         }
         static void Main(string[] args)
         {
