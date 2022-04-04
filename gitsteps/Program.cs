@@ -15,7 +15,7 @@ namespace gitsteps
         }
         static void Main(string[] args)
         {
-            METOD();
+            METODINO();
         }
     }
 }
